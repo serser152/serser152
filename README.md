@@ -1,4 +1,4 @@
-Translations[[ru](https://github.com/serser152/serser152/README.md.ru)]
+[Русская версия](README.ru.md)
 ## Hi there 👋
 About me:
 
