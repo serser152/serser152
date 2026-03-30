@@ -1,4 +1,4 @@
-[[English](./README.md)]
+[English version](README.md)
 ## Здравствуйте 👋
 
 Обо мне:
