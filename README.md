@@ -12,8 +12,8 @@ Contacts:
 ## Current projects
 
 🔭 I’m currently working on the following projects:
-    - [hh.ru grabber](https://github.com/serser152/hh.ru_job_finder)
-    - [lightweight agentic assistant](https://github.com/serser152/mob_friend)
+  - [hh.ru grabber](https://github.com/serser152/hh.ru_job_finder)
+  - [lightweight agentic assistant](https://github.com/serser152/mob_friend)
 
-🌱I'm open for new projects.
+**🌱I'm open for new projects.**
 
