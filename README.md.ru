@@ -1,0 +1,17 @@
+Translations[[en](https://github.com/serser152/serser152/README.md)]
+## Здравствуйте 👋
+
+Обо мне:
+Меня зовут Сергей.
+Я дата саентист с опытом дата инженера и DevOps. Активно интересуюсь темами LLM
+и агентами на языковых моделях.
+
+Контактная информация:
+e-mail: serser152@yandex.ru
+telegram: @VechniyStudent123
+  
+- 🔭 В данный момент работаю над следующими проектами:
+    - [помощник поиска работы на hh.ru](https://github.com/serser152/hh.ru_job_finder)
+    - [простой агент ассистент](https://github.com/serser152/mob_friend)
+
+🌱Открыт новым проектам.
