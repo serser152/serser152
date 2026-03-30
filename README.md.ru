@@ -1,4 +1,4 @@
-[[English](https://github.com/serser152/serser152/README.md)]
+[[English](README.md)]
 ## Здравствуйте 👋
 
 Обо мне:
